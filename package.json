@@ -22,7 +22,10 @@
     "config": "^3.3.6",
     "express": "^4.17.1",
     "mongoose": "^6.0.5",
+    "node": "^16.9.1",
+    "npm": "^7.23.0",
     "shortid": "^2.2.16",
+    "stable": "^0.1.8",
     "valid-url": "^1.0.9"
   },
   "devDependencies": {

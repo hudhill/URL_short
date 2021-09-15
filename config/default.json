@@ -1,3 +1,4 @@
 {
-    "mongoURI": ""
+    "mongoURI": "mongodb+srv://hudhill:pass1234@cluster0.q6v1w.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
 }
