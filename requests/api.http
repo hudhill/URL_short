@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "originalUrl": "https://chrome.google.com/webstore/detail/empty-title/ogdlpmhglpejoiomcodnpjnfgcpmgale?hl=it"
+}
