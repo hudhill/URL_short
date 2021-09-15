@@ -2,6 +2,7 @@ const mongoose = require('mongoose');
 const config = require('config');
 const db = config.get('mongoURI');
 
+// function to connect to the database:
 const connectDB = async function () {
     try {
         await mongoose.connect(db, {
